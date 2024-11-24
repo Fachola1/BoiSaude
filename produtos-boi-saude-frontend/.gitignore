@@ -1,0 +1,29 @@
+# Diretórios de dependências
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e relatórios
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.swp
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configurações locais do Git
+.env
+.env.local
